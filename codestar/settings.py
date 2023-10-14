@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-jaimilit-blog-0urg7xck3k.us2.codeanyapp.com',
-                 'blog-blog-codestar.herokuapp.com', 'localhost']
+                 'blog-blog-codestar.herokuapp.com', 'localhost', 'blog-blog-codestar-cdcfafb32678.herokuapp.com', 'https://blog-blog-codestar-cdcfafb32678.herokuapp.com/']
 
 
 # Application definition
